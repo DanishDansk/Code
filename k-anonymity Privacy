@@ -2,7 +2,7 @@ import pandas as pd
 import sys
 
 # Load the CSV file
-file_path = r'C:\Users\danii\Downloads\user.csv'  # Update with your file path
+file_path = r'C:\Users\[USER]\Downloads\user.csv'  # Update with your file path
 df = pd.read_csv(file_path)
 
 # Generalize 'age' to age ranges, including ages under 20
