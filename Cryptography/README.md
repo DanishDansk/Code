@@ -1,6 +1,5 @@
-Cryptographic Protocols in SageMath
-
 **Overview**
+
 This repository implements three cryptographic protocols in SageMath (a Python-based math environment):
 * RSA (Encryption, Decryption, Signatures)
 * Diffie-Hellman (Secure Key Exchange)
@@ -26,7 +25,11 @@ This repository implements three cryptographic protocols in SageMath (a Python-b
 * Curves: ANSI FRP256v1 and NIST P-256 (standards-compliant).
 
 **🐍 Python Compatibility**
+
 All code is written in SageMath, which:
+
 ✔️ Uses Python syntax (e.g., def, print, lists/dicts).
+
 ✔️ Integrates with Python libraries like hashlib.
+
 ✔️ Can be mixed with pure Python code.
