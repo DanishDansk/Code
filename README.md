@@ -6,7 +6,7 @@ You’ll find a mix of:
 - Random scripts that might someday become useful  
 - "What was I thinking?!" commits
 
-🔹 **Focus areas**: Anything that caught my interest on a Tuesday.  
+🔹 **Focus areas**: Anything that caught my interest on Tuesday.  
 
 ---
 
